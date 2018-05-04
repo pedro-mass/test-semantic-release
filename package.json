@@ -1,6 +1,6 @@
 {
   "name": "pedro-test-semantic-release",
-  "version": "1.0.0",
+  "version": "1.0.0-development",
   "description": "Test semantic-release ins/outs",
   "main": "src/index.js",
   "scripts": {
