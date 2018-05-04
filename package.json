@@ -4,11 +4,11 @@
   "description": "Test semantic-release ins/outs",
   "main": "src/index.js",
   "scripts": {
+    "test": "echo Success!",
     "semantic-release": "semantic-release",
     "travis-deploy-once": "travis-deploy-once"
   },
   "repository": {
-    "test": "echo Success!",
     "type": "git",
     "url": "https://github.com/pedro-mass/test-semantic-release.git"
   },
