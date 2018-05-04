@@ -8,6 +8,7 @@
     "travis-deploy-once": "travis-deploy-once"
   },
   "repository": {
+    "test": "echo Success!",
     "type": "git",
     "url": "https://github.com/pedro-mass/test-semantic-release.git"
   },
