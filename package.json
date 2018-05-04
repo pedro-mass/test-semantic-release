@@ -1,5 +1,5 @@
 {
-  "name": "test-semantic-release",
+  "name": "pedro-test-semantic-release",
   "version": "1.0.0",
   "description": "Test semantic-release ins/outs",
   "main": "src/index.js",
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/pedro-mass/test-semantic-release.git"
   },
   "keywords": [],
-  "author": "Pedro Mass <pedro.j.mass@gmail.com> (https://github.com/pedro-mass/test-semantic-release)",
+  "author":
+    "Pedro Mass <pedro.j.mass@gmail.com> (https://github.com/pedro-mass/test-semantic-release)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pedro-mass/test-semantic-release/issues"
