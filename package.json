@@ -1,0 +1,23 @@
+{
+  "name": "test-semantic-release",
+  "version": "1.0.0",
+  "description": "Test semantic-release ins/outs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro-mass/test-semantic-release.git"
+  },
+  "keywords": [],
+  "author": "Pedro Mass <pedro.j.mass@gmail.com> (https://github.com/pedro-mass/test-semantic-release)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro-mass/test-semantic-release/issues"
+  },
+  "homepage": "https://github.com/pedro-mass/test-semantic-release#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.1"
+  }
+}
